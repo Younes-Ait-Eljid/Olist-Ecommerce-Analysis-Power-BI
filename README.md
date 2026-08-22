@@ -388,11 +388,11 @@ Olist-Ecommerce-Analysis/
 
 └── Screenshots/
 
-\&#x20;   ├── Executive_Overview.png
+   ├── Executive_Overview.png
 
-\&#x20;   ├── Customers_Products.png
+   ├── Customers_Products.png
 
-\&#x20;   └── Operations_Performance.png
+   └── Operations_Performance.png
 
 ```
 
