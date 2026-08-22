@@ -134,7 +134,7 @@ The final Power BI dashboard consists of three analytical pages.
 
 ### Business Question
 
-> \\\*\\\*How is the marketplace performing overall?\\\*\\\*
+> **How is the marketplace performing overall?**
 
 \---
 
