@@ -158,7 +158,7 @@ The final Power BI dashboard consists of three analytical pages.
 
 ### Business Question
 
-> \\\*\\\*Who is buying, how loyal are customers, and which products and categories drive the business?\\\*\\\*
+> **Who is buying, how loyal are customers, and which products and categories drive the business?**
 
 \---
 
@@ -184,7 +184,7 @@ The final Power BI dashboard consists of three analytical pages.
 
 ### Business Question
 
-> \\\*\\\*How efficiently are orders fulfilled, and how does operational performance relate to customer satisfaction?\\\*\\\*
+> **How efficiently are orders fulfilled, and how does operational performance relate to customer satisfaction?**
 
 \---
 
