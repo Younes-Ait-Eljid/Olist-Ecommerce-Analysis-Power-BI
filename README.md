@@ -52,7 +52,7 @@ The dataset contains multiple interconnected tables covering:
 * Payments
 * Reviews
 
-Key identifiers such as `order\\\_id`, `customer\\\_id`, `product\\\_id`, and `seller\\\_id` were used to connect the different business entities.
+Key identifiers such as `order_id`, `customer_id`, `product_id`, and `seller_id` were used to connect the different business entities.
 
 \---
 
@@ -374,25 +374,25 @@ Olist-Ecommerce-Analysis/
 
 ├── Documentation/
 
-│   ├── Business\_Insights.docx
+│   ├── Business_Insights.docx
 
-│   └── Project\_Documentation.docx
+│   └── Project_Documentation.docx
 
 │
 
 ├── PowerBI/
 
-│   └── Olist\_Ecommerce\_Analysis.pbix
+│   └── Olist_Ecommerce_Analysis.pbix
 
 │
 
 └── Screenshots/
 
-\&#x20;   ├── Executive\_Overview.png
+\&#x20;   ├── Executive_Overview.png
 
-\&#x20;   ├── Customers\_Products.png
+\&#x20;   ├── Customers_Products.png
 
-\&#x20;   └── Operations\_Performance.png
+\&#x20;   └── Operations_Performance.png
 
 ```
 
@@ -403,7 +403,7 @@ Olist-Ecommerce-Analysis/
 ```text
 Raw Olist Data
        ↓
-Data Cleaning \\\& Preparation
+Data Cleaning & Preparation
        ↓
 Data Modeling
        ↓
@@ -434,5 +434,5 @@ This project demonstrates practical skills in **data cleaning, data modeling, SQ
 
 For the complete methodology, data preparation process, data model, DAX calculations, dashboard design, business insights, recommendations, and limitations, see:
 
-**`PROJECT\_DOCUMENTATION.docx`**
+**`PROJECT_DOCUMENTATION.docx`**
 
